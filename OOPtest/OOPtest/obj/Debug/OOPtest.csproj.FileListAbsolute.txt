@@ -1,0 +1,7 @@
+C:\Users\Tec\Documents\NRB\Repo\OOPtest\OOPtest\bin\Debug\OOPtest.exe.config
+C:\Users\Tec\Documents\NRB\Repo\OOPtest\OOPtest\bin\Debug\OOPtest.exe
+C:\Users\Tec\Documents\NRB\Repo\OOPtest\OOPtest\bin\Debug\OOPtest.pdb
+C:\Users\Tec\Documents\NRB\Repo\OOPtest\OOPtest\obj\Debug\OOPtest.csprojResolveAssemblyReference.cache
+C:\Users\Tec\Documents\NRB\Repo\OOPtest\OOPtest\obj\Debug\OOPtest.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Documents\NRB\Repo\OOPtest\OOPtest\obj\Debug\OOPtest.exe
+C:\Users\Tec\Documents\NRB\Repo\OOPtest\OOPtest\obj\Debug\OOPtest.pdb
